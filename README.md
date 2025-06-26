@@ -1,9 +1,9 @@
 
-# 💼 CFO-Facing Financial Dashboard | SolutionsH Healthcare
+# 💼 Dashboard | SolutionsH Healthcare
 
 ## 📊 Executive Summary
 
-This project was commissioned by **SolutionsH**, a mid-sized U.S.-based healthcare provider operating across 4 regional markets with 8 clinical departments, including Emergency, Cardiology, Pediatrics, and Oncology. The CFO and finance leadership team engaged me to deliver an automated, executive-facing dashboard that would provide clear visibility into:
+This project was commissioned by **SolutionsH**, a mid-sized healthcare provider operating across 4 regional markets with 8 clinical departments, including Emergency, Cardiology, Pediatrics, and Oncology. The CFO and finance leadership team engaged me to deliver an automated, executive-facing dashboard that would provide clear visibility into:
 
 - Budget vs. actual performance across departments and regions  
 - Monthly revenue and expense trends with volatility tracking  
@@ -32,7 +32,7 @@ SolutionsH_Financial_Project/
 
 ## 🎯 Objective
 
-Design and deliver a CFO-ready financial dashboard that simplifies complex financial data into clear, visual KPIs — allowing leadership to:
+Design and deliver a financial dashboard that simplifies complex financial data into clear, visual KPIs — allowing leadership to:
 - Track performance vs. budget in real-time  
 - Assess operational health through cash runway and profit metrics  
 - Identify risk exposures in AR/AP cycles  
